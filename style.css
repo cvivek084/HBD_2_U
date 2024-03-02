@@ -485,6 +485,14 @@ div#sea {
     right: 230px;
   }
 }
+.videolink{
+  z-index: 1;
+  position: relative;
+  top: 10px;
+  left: 10px;
+  color: #d44;
+  
+}
 
 
 
